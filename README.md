@@ -33,7 +33,7 @@ To execute the entire pipeline, run:
 ```python
 python flows/etl_web_to_gcs.py
 python flows/etl_gcs_to_bq.py
-
+```
 ## Contributing
 
 We welcome contributions that improve the efficiency and usability of the pipeline. Please follow the standard fork-branch-pull request workflow.
